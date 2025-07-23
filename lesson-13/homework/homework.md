@@ -29,13 +29,11 @@
 
 3. Write an SQL statement that can group concatenate the following values.(DMLTable)
 
-
 4. Find all employees whose names (concatenated first and last) contain the letter "a" at least 3 times.
 
 5. The total number of employees in each department and the percentage of those employees who have been with the company for more than 3 years(Employees)
 
 6. Write an SQL statement that determines the most and least experienced Spaceman ID by their job description.(Personal)
-
 
 ## Difficult Tasks
 1. Write an SQL query that separates the uppercase letters, lowercase letters, numbers, and other characters from the given string 'tf56sd#%OqH' into separate columns.
